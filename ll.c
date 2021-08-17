@@ -1,7 +1,4 @@
-/*
-Shawn Lai G01182226
-CS 262, Project 
-*/
+
 
 #include<stdio.h>
 #include<string.h>
